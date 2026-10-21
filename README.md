@@ -63,3 +63,6 @@ Expense records are stored in `expenses.json` and persist between program runs.
 
 The program checks for empty descriptions, empty categories, invalid amounts, and invalid expense IDs.
 
+## Assignment Status
+
+Core expense tracker features implemented and tested.
